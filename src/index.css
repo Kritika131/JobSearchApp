@@ -98,7 +98,7 @@ button:focus-visible {
   text-align: center;
 }
 
-@media screen and (max-width: 1119px) {
+/* @media screen and (max-width: 1119px) {
   .container {
     max-width: 90%;
   }
@@ -115,9 +115,9 @@ button:focus-visible {
     padding: 0rem;
     background-color: #213547;
   }
-}
+} */
 
-.card-id {
+/* .card-id {
   width: 3rem;
   height: 3rem;
   border-radius: 50%;
@@ -127,8 +127,8 @@ button:focus-visible {
   align-items: center;
   background-color: #fff;
   font-size: 1.6rem;
-}
-
+} */
+/* 
 p {
   text-align: justify;
   font-family: "Cormorant Garamond", serif;
@@ -148,7 +148,7 @@ figure {
   height: 15rem;
   display: grid;
   place-items: center;
-}
+} */
 
 img {
   max-width: 100%;
@@ -180,7 +180,7 @@ img {
   animation-delay: -0.5s;
 }
 
-@keyframes lds-ripple {
+/* @keyframes lds-ripple {
   0% {
     top: 36px;
     left: 36px;
@@ -212,7 +212,7 @@ img {
     height: 72px;
     opacity: 0;
   }
-}
+} */
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -228,3 +228,4 @@ img {
     background-color: #f9f9f9;
   }
 }
+
